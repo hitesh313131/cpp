@@ -24,3 +24,4 @@ int main(){
     cout<<a<<endl;
     return 0;
 }
+// The time complexity of linear search is O(n).
